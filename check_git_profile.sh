@@ -8,6 +8,8 @@ To setup, source this file in your .zshrc file:
 source ~/path/to/check-git-profile.sh
 
 Replace values <PATH_1>, <PATH_2>, <USER_NAME> and <USER_EMAIL> with relevant values.
+
+<PATH_1> and <PATH_2> should be abosolute paths such as ~/work/ or ~/personal/
 '
 
 autoload -U add-zsh-hook
